@@ -1,0 +1,10 @@
+streamlit
+easyocr
+crewai
+python-dotenv
+pandas
+opencv-python-headless
+pillow
+torch
+torchvision
+numpy==1.26.4
