@@ -1,6 +1,6 @@
 streamlit
 easyocr
-crewai
+crewai==0.28.8
 python-dotenv
 pandas
 opencv-python-headless
@@ -8,3 +8,4 @@ pillow
 torch
 torchvision
 numpy==1.26.4
+pydantic<2
